@@ -1,0 +1,4 @@
+{
+  "host": "mysql-app.feathersjs.com",
+  "port": "PORT"
+}
